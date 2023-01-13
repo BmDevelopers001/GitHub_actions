@@ -1,4 +1,4 @@
-console.log('Welcome to GitHub Actions')
+console.log("Welcome to GitHub Actions")
 
 const rn = require('random-number')
 
