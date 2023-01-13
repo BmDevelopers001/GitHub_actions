@@ -7,4 +7,4 @@ jobs :
             - uses : actions/checkout@v3
             - run : npm ci
             - run : node index.js
-            - run : npm eslint .
+            - run : npx eslint .
